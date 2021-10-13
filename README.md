@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm **Abdelbacet Mhamdi**. I'm a Dr.-Ing. in Electrical Enginnering.
+
+
+
 <!--
 **a-mhamdi/a-mhamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
