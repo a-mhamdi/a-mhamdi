@@ -1,11 +1,21 @@
+-----
 ## Hi, I'm **Abdelbacet Mhamdi**.
 
 I'm currently working as a lecturer at the dept. of Electrical Engineering at [ISET Bizerte](http://www.isetbz.rnu.tn/).
 
 I'm particularly interested in **system control**, **machine learning** and **deep learning**.
 
-## Connect with me 
+## Time Tracking Statistics Per Week
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
+## My GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-mhamdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+## You can find me on
 <div align="center">
   <a href="https://github.com/a-mhamdi" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -24,13 +34,6 @@ I'm particularly interested in **system control**, **machine learning** and **de
   </a>
 </div>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 <!--
 **a-mhamdi/a-mhamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,5 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?a-mhamdi=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
+https://wakatime.com/plugins
 -->
