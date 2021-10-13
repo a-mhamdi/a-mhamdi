@@ -12,7 +12,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## My github statistics
+## My GitHub statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-mhamdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## You can find me on
