@@ -7,6 +7,9 @@ I'm particularly interested in **system control**, **machine learning**, and **d
 
 ## Time tracking per week
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## My github statistics
