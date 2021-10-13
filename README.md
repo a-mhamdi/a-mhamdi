@@ -5,14 +5,11 @@ I'm currently working as a lecturer at the dept. of Electrical Engineering at [I
 
 I'm particularly interested in **system control**, **machine learning**, and **deep learning**.
 
-## Time Tracking Statistics Per Week
+## Time tracking per week
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
-## My GitHub Stats
+## My github statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-mhamdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## You can find me on
