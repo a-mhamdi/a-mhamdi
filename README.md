@@ -5,17 +5,21 @@ I'm currently working as a lecturer at the dept. of Electrical Engineering at [I
 
 I'm particularly interested in **system control**, **machine learning**, and **deep learning**.
 
-## Time tracking per week
+## Time Tracking Per Week
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## My GitHub statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-mhamdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img width="455em" src="https://wakatime.com/share/@a7e05912-c632-43ea-8993-3a4a3d6118b3/30987165-6947-4654-85f2-1aa0fd4ff872.svg">
 
-## You can find me on
+## My GitHub Statistics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-mhamdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&langs_count=8&layout=compact&theme=vue-dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mhamdi&langs_count=8&layout=compact&theme=vue-dark" />
+
+## You Can Reach Me On
 <div align="center">
   <a href="https://github.com/a-mhamdi" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
