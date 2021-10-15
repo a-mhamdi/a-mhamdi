@@ -1,4 +1,4 @@
-## Hi, I'm **Abdelbacet Mhamdi**.
+## Hi, I'm **Abdelbacet Mhamdi**
 
 I'm currently working as a lecturer at the dept. of Electrical Engineering at [ISET Bizerte](http://www.isetbz.rnu.tn/).
 
