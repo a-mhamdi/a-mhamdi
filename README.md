@@ -1,4 +1,3 @@
------
 ## Hi, I'm **Abdelbacet Mhamdi**.
 
 I'm currently working as a lecturer at the dept. of Electrical Engineering at [ISET Bizerte](http://www.isetbz.rnu.tn/).
@@ -39,6 +38,9 @@ OpenEdge ABL   1 min           ▓░░░░░░░░░░░░░░░�
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
 </div>
+
+-----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-mhamdi&label=My+Profile+Visitors&color=red&style=plastic" /> </p>
 
 <!--
 **a-mhamdi/a-mhamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
