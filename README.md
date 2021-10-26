@@ -7,11 +7,11 @@ I'm particularly interested in **system control**, **machine learning**, and **d
 ## Time Tracking Per Week
 <!--START_SECTION:waka-->
 ```text
-sh       2 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   35.10 % 
-TeX      1 hr 42 mins    ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Python   1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.53 % 
-Julia    33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Other    33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+sh      2 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.09 % 
+TeX     1 hr 32 mins    ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Julia   33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Other   33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+JSON    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 ```
 <!--END_SECTION:waka-->
 
