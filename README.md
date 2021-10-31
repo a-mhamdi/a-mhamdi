@@ -1,8 +1,8 @@
 ## Hi, I'm **Abdelbacet Mhamdi**
 
-I'm currently working as a lecturer at the dept. of Electrical Engineering at Higher Institute of Technological Studies of Bizerte [*(ISET Bizerte)*](http://www.isetbz.rnu.tn/).
+I'm currently working as a lecturer at the dept. of Electrical Engineering at the Higher Institute of Technological Studies of Bizerte [*(ISET Bizerte)*](http://www.isetbz.rnu.tn/).
 
-I'm particularly interested in **system control**, **machine learning**, and **deep learning**.
+My primary interests are **system control**, **machine learning**, and **deep learning**.
 
 ## Time Tracking Per Week
 <!--START_SECTION:waka-->
