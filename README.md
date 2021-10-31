@@ -1,6 +1,6 @@
 ## Hi, I'm **Abdelbacet Mhamdi**
 
-I'm currently working as a lecturer at the dept. of Electrical Engineering at [ISET Bizerte](http://www.isetbz.rnu.tn/).
+I'm currently working as a lecturer at the dept. of Electrical Engineering at Higher Institute of Technological Studies of Bizerte [*(ISET Bizerte)*](http://www.isetbz.rnu.tn/).
 
 I'm particularly interested in **system control**, **machine learning**, and **deep learning**.
 
@@ -15,7 +15,7 @@ JSON     1 min           ░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<img width="455em" src="https://wakatime.com/share/@a7e05912-c632-43ea-8993-3a4a3d6118b3/30987165-6947-4654-85f2-1aa0fd4ff872.svg">
+<img width="455em" src="https://wakatime.com/share/@amhamdi/4e0fb58f-c03c-483f-aba8-69e012ab8335.svg">
 
 ## My GitHub Statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-mhamdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&langs_count=8&layout=compact&theme=vue-dark" />
@@ -41,9 +41,6 @@ JSON     1 min           ░░░░░░░░░░░░░░░░░░�
   </a>
 </div>
 
------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-mhamdi&label=My+Profile+Visitors&color=red&style=plastic" /> </p>
-
 <!--
 **a-mhamdi/a-mhamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,4 +57,5 @@ Here are some ideas to get you started:
 
 https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
 https://wakatime.com/plugins
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-mhamdi&label=My+Profile+Visitors&color=red&style=plastic" /> </p>
 -->
