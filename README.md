@@ -12,6 +12,8 @@ TeX     2 mins          ▓░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
+
 <img width="455em" src="https://wakatime.com/share/@amhamdi/4e0fb58f-c03c-483f-aba8-69e012ab8335.svg">
 
 ## My GitHub Statistics
