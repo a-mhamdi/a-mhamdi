@@ -7,9 +7,10 @@ My primary interests are **system control**, **machine learning**, and **deep le
 ## Time Tracking Per Week
 <!--START_SECTION:waka-->
 ```text
-TeX     21 mins         ████████████▒░░░░░░░░░░░░   49.48 % 
-sh      17 mins         ██████████░░░░░░░░░░░░░░░   39.82 % 
-Other   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+TeX     1 hr 2 mins     ███████████████▓░░░░░░░░░   62.85 % 
+sh      25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.18 % 
+Bash    6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Other   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 <!--END_SECTION:waka-->
 
