@@ -1,6 +1,6 @@
 ## Hi, I'm **Abdelbacet Mhamdi**
 
-I'm currently working as a senior lecturer at the dept. of Electrical Engineering at the Higher Institute of Technological Studies of Bizerte [*(ISET Bizerte)*](http://www.isetbz.rnu.tn/).
+I'm currently working as a full-time senior lecturer at the dept. of Electrical Engineering at the Higher Institute of Technological Studies of Bizerte [*(ISET Bizerte)*](http://www.isetbz.rnu.tn/).
 
 My primary interests are **system control**, **machine learning**, and **deep learning**.
 
