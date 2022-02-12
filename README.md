@@ -24,9 +24,6 @@ BibTeX   3 mins          ▒░░░░░░░░░░░░░░░░░�
 
 ## You Can Reach Me On
 <div align="center">
-  <a href="https://github.com/a-mhamdi" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
   
   <a href="https://www.linkedin.com/in/linmhamdi/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -39,6 +36,7 @@ BibTeX   3 mins          ▒░░░░░░░░░░░░░░░░░�
   <a href="https://www.facebook.com/fbMhamdi" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
+  
 </div>
 
 <!--
@@ -58,4 +56,9 @@ Here are some ideas to get you started:
 https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
 https://wakatime.com/plugins
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-mhamdi&label=My+Profile+Visitors&color=red&style=plastic" /> </p>
+
+  <a href="https://github.com/a-mhamdi" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+
 -->
