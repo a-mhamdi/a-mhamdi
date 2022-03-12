@@ -8,10 +8,8 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-sh                  5 hrs 20 mins   ████████████████████████░   95.34 %
-Markdown            13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-IPython or IJulia   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Other               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+sh         4 hrs 58 mins   ██████████████████████▓░░   90.79 %
+Other      17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
 
 <!--END_SECTION:waka-->
