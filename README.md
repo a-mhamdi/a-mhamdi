@@ -8,9 +8,11 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-IPython or IJulia   1 hr 20 mins    ███████████████████████▒░   93.32 %
-Julia               4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-sh                  1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+IPython or IJulia   1 hr 20 mins    █████████░░░░░░░░░░░░░░░░   35.62 %
+Julia               1 hr 12 mins    ████████░░░░░░░░░░░░░░░░░   31.83 %
+sh                  1 hr 10 mins    ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+TeX                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
