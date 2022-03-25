@@ -8,12 +8,12 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-sh                  2 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.32 %
-IPython or IJulia   1 hr 20 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-Julia               1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-JSON                12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Bash                9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Other               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+IPython or IJulia   2 hrs 41 mins   █████████▒░░░░░░░░░░░░░░░   37.23 %
+sh                  2 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   36.92 %
+Julia               1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+JSON                12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Bash                9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
