@@ -4,7 +4,7 @@ I'm currently working as a full-time senior lecturer at the dept. of Electrical 
 
 My primary interests are **system control**, **machine learning**, and **deep learning**.
 
-## Time Tracking Per Week
+#### Time tracking per week
 <!--START_SECTION:waka-->
 
 ```text
@@ -14,6 +14,8 @@ Other               1 hr 31 mins    ██████▓░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<!--
 
 [![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
 
@@ -41,7 +43,7 @@ Other               1 hr 31 mins    ██████▓░░░░░░░�
   
 </div>
 
-<!--
+
 **a-mhamdi/a-mhamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
