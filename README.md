@@ -4,7 +4,7 @@ I'm currently working as a full-time senior lecturer at the dept. of Electrical 
 
 My primary interests are **system control**, **machine learning**, and **deep learning**.
 
-#### Time tracking per week
+#### TIME TRACKING PER WEEK
 <!--START_SECTION:waka-->
 
 ```text
