@@ -8,8 +8,8 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-TeX     2 hrs 53 mins   █████████████████▓░░░░░░░   70.13 %
-Other   53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
+TeX     2 hrs 53 mins   ██████████████████░░░░░░░   71.80 %
+Other   47 mins         █████░░░░░░░░░░░░░░░░░░░░   19.76 %
 ```
 
 <!--END_SECTION:waka-->
