@@ -8,13 +8,11 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2021 - To: 04 September 2022
-
-Total Time: 283 hrs 14 mins
-
-TeX                 117 hrs 32 mins >>>>>>>>>>---------------   41.50 %
-sh                  80 hrs 59 mins  >>>>>>>------------------   28.60 %
-Other               51 hrs 30 mins  >>>>>--------------------   18.19 %
+TeX          2 hrs 14 mins   >>>>>>>>>>>>>>>>>--------   66.27 %
+sh           29 mins         >>>>---------------------   14.80 %
+Python       18 mins         >>-----------------------   09.27 %
+Makefile     17 mins         >>-----------------------   08.75 %
+Vim Script   1 min           -------------------------   00.91 %
 ```
 
 <!--END_SECTION:waka-->
