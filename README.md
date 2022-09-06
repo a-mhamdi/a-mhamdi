@@ -16,7 +16,7 @@ Vim Script   1 min           -------------------------   00.91 %
 ```
 
 <!--END_SECTION:waka-->
-
+[![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
 <!--
 
 [![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
