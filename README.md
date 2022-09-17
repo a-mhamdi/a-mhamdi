@@ -15,13 +15,13 @@ Other        14 hrs 6 mins   >>>>>>>>>>>>>>>>>>-------   72.93 %
 
 <!--END_SECTION:waka-->
 
-##### Languages over last year
+##### [Languages over Last Year](https://wakatime.com/share/@amhamdi/49ea0b1f-68f2-4656-8248-c8337315c73a.svg)
 
 <img width="455em" src="https://wakatime.com/share/@amhamdi/49ea0b1f-68f2-4656-8248-c8337315c73a.svg">
 
-##### Editors over last year
+##### [Editors over Last Year](https://wakatime.com/share/@amhamdi/0340a155-5d46-41be-bd70-5169555814a4.svg)
 
-<img width="455em" src="https://wakatime.com/share/@amhamdi/49ea0b1f-68f2-4656-8248-c8337315c73a.svg">
+<img width="455em" src="https://wakatime.com/share/@amhamdi/0340a155-5d46-41be-bd70-5169555814a4.svg">
 
 [![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
 
@@ -42,7 +42,7 @@ Other        14 hrs 6 mins   >>>>>>>>>>>>>>>>>>-------   72.93 %
 
 [![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
 
-##### Languages over last 7 days
+##### [Languages over last 7 days]()
  
 ![Languages](https://wakatime.com/share/@amhamdi/f97464e9-85fa-4cf4-b6db-f45e253e177a.svg)
  
