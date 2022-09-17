@@ -12,12 +12,39 @@ Other        14 hrs 6 mins   >>>>>>>>>>>>>>>>>>-------   72.93 %
 ```
 
 <!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
-<!--
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mhamdi&langs_count=8&layout=compact&theme=vue-dark" />
+
+<img width="455em" src="https://wakatime.com/share/@amhamdi/9057dbfb-1c78-4a2d-a5fc-d0fbd6657a40.svg">
 
 [![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
 
-<img width="455em" src="https://wakatime.com/share/@amhamdi/4e0fb58f-c03c-483f-aba8-69e012ab8335.svg">
+
+
+
+
+
+
+
+
+
+
+
+
+<!--  
+                      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% COMMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+[![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
+
+##### Languages over last 7 days
+ 
+![Languages](https://wakatime.com/share/@amhamdi/f97464e9-85fa-4cf4-b6db-f45e253e177a.svg)
+ 
+##### Editors over last 7 days
+
+![Editors](https://wakatime.com/share/@amhamdi/3fa42229-0715-411a-8b24-2e0f1ad61ba2.svg)
+
+
 
 ## My GitHub Statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-mhamdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&langs_count=8&layout=compact&theme=vue-dark" />
