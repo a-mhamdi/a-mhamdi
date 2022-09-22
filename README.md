@@ -10,8 +10,8 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-sh           4 hrs 46 mins   >>>>>>>>>>>>-------------   48.24 %
-Other        4 hrs 20 mins   >>>>>>>>>>>--------------   43.80 %
+sh         2 hrs 42 mins   >>>>>>>>>>>>>>>>>--------   67.09 %
+Other      1 hr 8 mins     >>>>>>>------------------   28.18 %
 ```
 
 <!--END_SECTION:waka-->
