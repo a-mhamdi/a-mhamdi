@@ -10,10 +10,9 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-TeX        8 hrs 10 mins   >>>>>>>>>>>>-------------   48.70 %
-sh         7 hrs 35 mins   >>>>>>>>>>>--------------   45.24 %
-Makefile   23 mins         >------------------------   02.32 %
-Other      22 mins         >------------------------   02.27 %
+sh         10 hrs 14 mins  >>>>>>>>>>>>-------------   48.81 %
+TeX        8 hrs 56 mins   >>>>>>>>>>>--------------   42.59 %
+Other      1 hr 9 mins     >------------------------   05.50 %
 ```
 
 <!--END_SECTION:waka-->
