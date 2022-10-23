@@ -4,9 +4,7 @@ I'm currently working as a full-time senior lecturer at the dept. of Electrical 
 
 My primary interests are **system control**, **machine learning**, and **deep learning**.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mhamdi&langs_count=8&layout=compact&theme=vue-dark" />
-
-#### TIME TRACKING PER WEEK
+#### TIME TRACKING
 <!--START_SECTION:waka-->
 
 ```text
@@ -45,6 +43,8 @@ Other               98 hrs 28 mins  >>>>>>-------------------   24.51 %
 
 <!--  
                       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% COMMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mhamdi&langs_count=8&layout=compact&theme=vue-dark" />
 
 [![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
 
