@@ -10,7 +10,13 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-Other   8 hrs 22 mins   ██████████░░░░░░░░░░░░░░░   40.08 %
+From: 12 October 2021 - To: 22 October 2022
+
+Total Time: 401 hrs 44 mins
+
+TeX                 138 hrs 15 mins >>>>>>>>>----------------   34.41 %
+sh                  119 hrs 9 mins  >>>>>>>------------------   29.66 %
+Other               98 hrs 28 mins  >>>>>>-------------------   24.51 %
 ```
 
 <!--END_SECTION:waka-->
