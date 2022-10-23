@@ -8,6 +8,11 @@ My primary interests are **system control**, **machine learning**, and **deep le
 
 #### TIME TRACKING PER WEEK
 <!--START_SECTION:waka-->
+
+```text
+Other   8 hrs 22 mins   ██████████░░░░░░░░░░░░░░░   40.08 %
+```
+
 <!--END_SECTION:waka-->
 
 ##### Languages over Last Year [*(Link)*](https://wakatime.com/share/@amhamdi/49ea0b1f-68f2-4656-8248-c8337315c73a.svg)
