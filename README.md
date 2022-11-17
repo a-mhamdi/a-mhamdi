@@ -7,19 +7,6 @@ My primary interests are **system control**, **machine learning**, and **deep le
 #### TIME TRACKING
 <!--START_SECTION:waka-->
 
-```text
-From: 12 October 2021 - To: 15 November 2022
-
-Total Time: 477 hrs 47 mins
-
-TeX                             150 hrs 54 mins >>>>>>>>-----------------   31.58 %
-sh                              150 hrs 13 mins >>>>>>>>-----------------   31.44 %
-Bash on RPI or on Jetson Nano   108 hrs 29 mins >>>>>>-------------------   22.71 %
-IPython or IJulia               25 hrs 58 mins  >------------------------   05.44 %
-Julia                           10 hrs 4 mins   >------------------------   02.11 %
-Docker                          6 hrs 32 mins   -------------------------   01.37 %
-```
-
 <!--END_SECTION:waka-->
 
 ##### Languages over Last 7 Days [*(Link)*](https://wakatime.com/share/@amhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg)
