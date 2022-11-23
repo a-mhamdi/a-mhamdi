@@ -8,15 +8,15 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2021 - To: 20 November 2022
+From: 12 October 2021 - To: 21 November 2022
 
-Total Time: 494 hrs 29 mins
+Total Time: 495 hrs 51 mins
 
-sh                              161 hrs 10 mins >>>>>>>>-----------------   32.59 %
-TeX                             151 hrs 14 mins >>>>>>>>-----------------   30.59 %
-Bash on RPI or on Jetson Nano   108 hrs 29 mins >>>>>--------------------   21.94 %
-IPython or IJulia               25 hrs 58 mins  >------------------------   05.25 %
-Julia                           13 hrs 11 mins  >------------------------   02.67 %
+sh                              161 hrs 10 mins >>>>>>>>-----------------   32.50 %
+TeX                             151 hrs 14 mins >>>>>>>>-----------------   30.50 %
+Bash on RPI or on Jetson Nano   108 hrs 29 mins >>>>>--------------------   21.88 %
+IPython or IJulia               25 hrs 58 mins  >------------------------   05.24 %
+Julia                           13 hrs 11 mins  >------------------------   02.66 %
 sh (RPI || Jetson Nano)         11 hrs 25 mins  >------------------------   02.31 %
 ```
 
