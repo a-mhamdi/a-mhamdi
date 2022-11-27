@@ -8,7 +8,7 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2021 - To: 24 November 2022
+From: 12 October 2021 - To: 25 November 2022
 
 Total Time: 509 hrs 49 mins
 
