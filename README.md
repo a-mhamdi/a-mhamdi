@@ -8,11 +8,10 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
-sh                  4 hrs 48 mins   >>>>>>>>>>---------------   38.51 %
-TeX                 3 hrs 17 mins   >>>>>>>------------------   26.43 %
-Other               1 hr 50 mins    >>>>---------------------   14.80 %
+sh                  3 hrs 43 mins   >>>>>>>>>>>--------------   44.93 %
+Other               1 hr 49 mins    >>>>>>-------------------   22.08 %
 ```
 
 <!--END_SECTION:waka-->
