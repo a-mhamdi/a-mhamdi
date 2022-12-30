@@ -8,14 +8,14 @@ My primary interests are **system control**, **machine learning**, and **deep le
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-Julia               22 hrs 1 min    >>>>>>>>>>>>>------------   53.74 %
-sh                  15 hrs 11 mins  >>>>>>>>>----------------   37.06 %
-IPython or IJulia   1 hr 42 mins    >------------------------   04.16 %
-Bash                36 mins         -------------------------   01.50 %
-Docker              33 mins         -------------------------   01.36 %
-Markdown            25 mins         -------------------------   01.05 %
+Julia        24 hrs 54 mins  >>>>>>>>>>>>>>>>>--------   66.64 %
+sh           10 hrs 39 mins  >>>>>>>------------------   28.53 %
+Bash         37 mins         -------------------------   01.66 %
+Docker       33 mins         -------------------------   01.49 %
+Markdown     25 mins         -------------------------   01.15 %
+Vim Script   6 mins          -------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
