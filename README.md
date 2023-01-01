@@ -1,8 +1,6 @@
 ## Hi, I'm **Abdelbacet Mhamdi**
 
-I'm currently working as a full-time senior lecturer at the dept. of Electrical Engineering at the Higher Institute of Technological Studies of Bizerte [*(ISET Bizerte)*](http://www.isetbz.rnu.tn/).
-
-My primary interests are **system control**, **machine learning**, and **deep learning**.
+I really enjoy programming in `Julia`, `Python`, `Matlab`, `Labview`, and using `LaTeX` for typesetting. It's a lot of fun for me to work with these tools and I feel like I learn something new every time I use them.
 
 #### TIME TRACKING
 <!--START_SECTION:waka-->
@@ -94,6 +92,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I'm currently working as a full-time senior lecturer at the dept. of Electrical Engineering at the Higher Institute of Technological Studies of Bizerte [*(ISET Bizerte)*](http://www.isetbz.rnu.tn/).
+
+My primary interests are **system control**, **machine learning**, and **deep learning**. 
 
 https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
 https://wakatime.com/plugins
