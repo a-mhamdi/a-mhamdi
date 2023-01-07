@@ -6,14 +6,14 @@ I really enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using 
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-Julia               11 hrs 15 mins  >>>>>>>>>>>>>>-----------   54.15 %
-sh                  7 hrs 17 mins   >>>>>>>>>----------------   35.03 %
-TeX                 59 mins         >------------------------   04.73 %
-IPython or IJulia   57 mins         >------------------------   04.57 %
-Bash                12 mins         -------------------------   00.99 %
-Vim Script          6 mins          -------------------------   00.49 %
+Julia               8 hrs 27 mins   >>>>>>>>>>>>>------------   50.15 %
+sh                  6 hrs 24 mins   >>>>>>>>>----------------   37.98 %
+TeX                 1 hr 1 min      >>-----------------------   06.11 %
+IPython or IJulia   57 mins         >------------------------   05.64 %
+Markdown            0 secs          -------------------------   00.06 %
+Bash                0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
