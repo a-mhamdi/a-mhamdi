@@ -18,7 +18,7 @@ Other               7 hrs 30 mins   >>>>>>>>-----------------   30.64 %
 
  Languages over Last 7 Days [*(Link)*](https://wakatime.com/share/@amhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg) | Editors over Last 7 Days [*(Link)*](https://wakatime.com/share/@amhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg)
 :-------------------------:|:-------------------------:
-<img width="400em" src="https://wakatime.com/share/@amhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg"> | <img width="400em" src="https://wakatime.com/share/@amhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg">
+<img width="300em" src="https://wakatime.com/share/@amhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg"> | <img width="300em" src="https://wakatime.com/share/@amhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg">
 
 
 
