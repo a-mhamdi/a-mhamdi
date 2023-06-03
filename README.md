@@ -5,12 +5,12 @@ I really enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using 
 #### TIME TRACKING
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
-sh         2 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.49 %
-conf       0 secs          -------------------------   00.36 %
-Markdown   0 secs          -------------------------   00.15 %
+sh         1 hr 45 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.38 %
+conf       0 secs          -------------------------   00.44 %
+Markdown   0 secs          -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->
