@@ -21,7 +21,7 @@ Python       0 secs          -------------------------   00.03 %
 
  Languages over Last 7 Days [*(Link)*](https://wakatime.com/share/@a_mhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg) | Editors over Last 7 Days [*(Link)*](https://wakatime.com/share/@a_mhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg)
 :-------------------------:|:-------------------------:
-<img width="455em" src="https://wakatime.com/share/@amhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg"> | <img width="455em" src="https://wakatime.com/share/@amhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg">
+<img width="455em" src="https://wakatime.com/share/@a_mhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg"> | <img width="455em" src="https://wakatime.com/share/@a_mhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg">
 
 
 
