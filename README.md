@@ -19,7 +19,7 @@ Python       0 secs          -------------------------   00.03 %
 
 [![wakatime](https://wakatime.com/badge/user/a7e05912-c632-43ea-8993-3a4a3d6118b3.svg)](https://wakatime.com/@a7e05912-c632-43ea-8993-3a4a3d6118b3)
 
- Languages over Last 7 Days [*(Link)*](https://wakatime.com/share/@amhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg) | Editors over Last 7 Days [*(Link)*](https://wakatime.com/share/@amhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg)
+ Languages over Last 7 Days [*(Link)*](https://wakatime.com/share/@a_mhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg) | Editors over Last 7 Days [*(Link)*](https://wakatime.com/share/@a_mhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg)
 :-------------------------:|:-------------------------:
 <img width="455em" src="https://wakatime.com/share/@amhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg"> | <img width="455em" src="https://wakatime.com/share/@amhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg">
 
