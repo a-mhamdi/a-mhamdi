@@ -6,13 +6,13 @@ I really enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-sh                        14 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.18 %
-Typst                     32 mins         >------------------------   03.46 %
-Bash                      13 mins         -------------------------   01.47 %
-Python                    5 mins          -------------------------   00.57 %
-JSON                      1 min           -------------------------   00.14 %
+sh                        15 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.56 %
+Typst                     32 mins         >------------------------   03.22 %
+Bash                      13 mins         -------------------------   01.37 %
+Python                    5 mins          -------------------------   00.53 %
+JSON                      1 min           -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
