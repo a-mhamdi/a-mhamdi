@@ -6,7 +6,7 @@ I enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using `LaTeX`
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
 sh (RPI || Jetson Nano)   3 hrs 31 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
