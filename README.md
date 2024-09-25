@@ -6,7 +6,7 @@ I enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using `LaTeX`
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2024 - To: 22 September 2024
+From: 16 September 2024 - To: 23 September 2024
 
 JavaScript                19 hrs 43 mins  >>>>>>>>>>>>>>>>>>-------   70.72 %
 HTML                      4 hrs 26 mins   >>>>---------------------   15.91 %
