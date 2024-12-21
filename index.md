@@ -1,6 +1,6 @@
-<a href="https://a-mhamdi.github.io/" style="font-size: 20px; color: #202727; text-decoration: none; padding: 10px; border: 1px solid #FF6347; border-radius: 5px; display: inline-block; margin-right: 10px;">Home</a>
-<a href="https://a-mhamdi.github.io/mlpy" style="font-size: 20px; color: #202727; text-decoration: none; padding: 10px; border: 1px solid #32CD32; border-radius: 5px; display: inline-block; margin-right: 10px;">MLPY</a>
-<a href="https://a-mhamdi.github.io/jlai" style="font-size: 20px; color: #202727; text-decoration: none; padding: 10px; border: 1px solid #1E90FF; border-radius: 5px; display: inline-block;">JLAI</a>
+<a href="https://a-mhamdi.github.io/" style="font-size: 30px; color: #ffffff; text-decoration: none; padding: 10px; border: 1px solid #202727; border-radius: 5px; display: inline-block; margin-right: 10px;">**Home**</a>
+<a href="https://a-mhamdi.github.io/mlpy" style="font-size: 30px; color: #ffffff; text-decoration: none; padding: 10px; border: 1px solid #202727; border-radius: 5px; display: inline-block; margin-right: 10px;">**MLPY**</a>
+<a href="https://a-mhamdi.github.io/jlai" style="font-size: 30px; color: #ffffff; text-decoration: none; padding: 10px; border: 1px solid #202727; border-radius: 5px; display: inline-block;">**JLAI**</a>
 
 ## Hi, I'm **Abdelbacet Mhamdi**
 
