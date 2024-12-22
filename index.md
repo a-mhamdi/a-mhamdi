@@ -1,6 +1,4 @@
----
-markdown-css-paths: ["styles.css"]
----
+<link href="style.css" rel="stylesheet"></link>
    
 <div class="gradient-bg"></div>
 <div class="particles" id="particles"></div>
