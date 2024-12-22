@@ -11,20 +11,27 @@
 <div id="markdown-content"></div>
 
 <script>
-    fetch('README.md')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return response.text();
-        })
-        .then(markdownText => {
-            const html = marked(markdownText);
-            document.getElementById("markdown-content").innerHTML = html;
-        })
-        .catch(error => {
-            console.error('There was a problem with the fetch operation:', error);
-        });
+//    fetch('README.md')
+//        .then(response => {
+//            if (!response.ok) {
+//                throw new Error('Network response was not ok');
+//            }
+//            return response.text();//
+    //    })
+//        .then(markdownText => {
+//            const html = marked(markdownText);
+//            document.getElementById("markdown-content").innerHTML = html;//
+    //    })
+//        .catch(error => {
+//            console.error('There was a problem with the fetch operation:', error);
+//        });
+
+  var md = new Redcarpet('#README.md', { html: true });
+  document.getElementById('markdown-content').innerHTML = md.html();
+
+
+
+
 </script>
 
 </body>
