@@ -1,14 +1,14 @@
-<link href="https://raw.githubusercontent.com/yrgoldteeth/darkdowncss/master/darkdown.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
    
-<!-- div class="gradient-bg"></div -->
+<div class="gradient-bg"></div>
 
-<!-- nav class="navbar">
+<nav class="navbar">
     <ul>
         <li><a href="https://a-mhamdi.github.io">HOME</a></li>
         <li><a href="https://a-mhamdi.github.io/mlpy">MLPY</a></li>
         <li><a href="https://a-mhamdi.github.io/jlai">JLAI</a></li>
     </ul>
-</nav -->
+</nav>
 
 ## Hi, I'm **Abdelbacet Mhamdi**
 
