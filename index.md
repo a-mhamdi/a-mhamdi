@@ -1,13 +1,17 @@
-    <div class="gradient-bg"></div>
-    <div class="particles" id="particles"></div>
+   ---
+markdown-css-paths: ["styles.css"]
+---
+   
+<div class="gradient-bg"></div>
+<div class="particles" id="particles"></div>
 
-    <nav class="navbar">
-        <ul>
-            <li><a href="https://a-mhamdi.github.io/">HOME</a></li>
-            <li><a href="https://a-mhamdi.github.io/a-mhamdi">ABOUT ME</a></li>
-            <li><a href="https://a-mhamdi.github.io/jlai">JLAI</a></li>
-        </ul>
-    </nav>
+<nav class="navbar">
+    <ul>
+        <li><a href="https://a-mhamdi.github.io/">HOME</a></li>
+        <li><a href="https://a-mhamdi.github.io/a-mhamdi">ABOUT ME</a></li>
+        <li><a href="https://a-mhamdi.github.io/jlai">JLAI</a></li>
+    </ul>
+</nav>
 
 ## Hi, I'm **Abdelbacet Mhamdi**
 
