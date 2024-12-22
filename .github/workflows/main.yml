@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Index
 
 on:
   workflow_dispatch: # for manual workflow trigger
