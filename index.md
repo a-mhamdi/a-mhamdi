@@ -1,7 +1,6 @@
 <link href="style.css" rel="stylesheet">
    
 <div class="gradient-bg"></div>
-<div class="particles" id="particles"></div>
 
 <nav class="navbar">
     <ul>
