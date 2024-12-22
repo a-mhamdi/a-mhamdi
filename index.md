@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
    
-<div class="gradient-bg"></div>
+<!-- div class="gradient-bg"></div -->
 
 <nav class="navbar">
     <ul>
@@ -39,6 +39,8 @@ Bash                      0 secs          -------------------------   00.05 %
 
 [![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/320px-GitLab_logo.svg.png)](https://gitlab.com/a-mhamdi)
 
-<a href="https://a-mhamdi.github.io/" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**Home**</a>
-<a href="https://a-mhamdi.github.io/mlpy" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**MLPY**</a>
-<a href="https://a-mhamdi.github.io/jlai" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block;">**JLAI**</a>
+<!-- 
+    <a href="https://a-mhamdi.github.io/" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**Home**</a>
+    <a href="https://a-mhamdi.github.io/mlpy" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**MLPY**</a>
+    <a href="https://a-mhamdi.github.io/jlai" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block;">**JLAI**</a>
+-->
