@@ -1,4 +1,4 @@
-<!-- 
+
     <link href="style.css" rel="stylesheet">
     
     <div class="gradient-bg"></div>
@@ -10,7 +10,7 @@
             <li><a href="https://a-mhamdi.github.io/jlai">JLAI</a></li>
         </ul>
     </nav>
--->
+
 
 # Hi, I'm Abdelbacet Mhamdi
 
