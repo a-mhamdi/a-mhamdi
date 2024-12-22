@@ -1,14 +1,14 @@
-<link href="style.css" rel="stylesheet">
+<link href=https://raw.githubusercontent.com/yrgoldteeth/darkdowncss/master/darkdown.css" rel="stylesheet">
    
 <!-- div class="gradient-bg"></div -->
 
-<nav class="navbar">
+<!-- nav class="navbar">
     <ul>
-        <li><a href="https://a-mhamdi.github.io/">HOME</a></li>
+        <li><a href="https://a-mhamdi.github.io">HOME</a></li>
         <li><a href="https://a-mhamdi.github.io/mlpy">MLPY</a></li>
         <li><a href="https://a-mhamdi.github.io/jlai">JLAI</a></li>
     </ul>
-</nav>
+</nav -->
 
 ## Hi, I'm **Abdelbacet Mhamdi**
 
@@ -39,8 +39,6 @@ Bash                      0 secs          -------------------------   00.05 %
 
 [![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/320px-GitLab_logo.svg.png)](https://gitlab.com/a-mhamdi)
 
-<!-- 
-    <a href="https://a-mhamdi.github.io/" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**Home**</a>
-    <a href="https://a-mhamdi.github.io/mlpy" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**MLPY**</a>
-    <a href="https://a-mhamdi.github.io/jlai" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block;">**JLAI**</a>
--->
+<a href="https://a-mhamdi.github.io/" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**Home**</a>
+<a href="https://a-mhamdi.github.io/mlpy" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**MLPY**</a>
+<a href="https://a-mhamdi.github.io/jlai" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block;">**JLAI**</a>
