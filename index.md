@@ -1,4 +1,4 @@
-   ---
+---
 markdown-css-paths: ["styles.css"]
 ---
    
