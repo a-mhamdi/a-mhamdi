@@ -26,8 +26,8 @@ I enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using `LaTeX`
 
 [![OS](https://wakatime.com/share/@a_mhamdi/f41731fc-944d-4117-9483-c5c00066c969.svg)](https://wakatime.com/share/@a_mhamdi/f41731fc-944d-4117-9483-c5c00066c969.svg)
 
-[![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/320px-GitLab_logo.svg.png)](https://gitlab.com/a-mhamdi) | [![Bitbucket](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitbucket-Logo-blue.svg/320px-Bitbucket-Logo-blue.svg.png)](https://bitbucket.org/aBmhamdi)
-:---------------:|:---------------:
+|[![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/320px-GitLab_logo.svg.png)](https://gitlab.com/a-mhamdi) | [![Bitbucket](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitbucket-Logo-blue.svg/320px-Bitbucket-Logo-blue.svg.png)](https://bitbucket.org/aBmhamdi)|
+|:---------------:|:---------------:|
 
 <a href="https://a-mhamdi.github.io/" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**HOME**</a>
 <a href="https://a-mhamdi.github.io/mlpy" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**MLPY**</a>
