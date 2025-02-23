@@ -8,6 +8,7 @@
             <li><a href="https://a-mhamdi.github.io">HOME</a></li>
             <li><a href="https://a-mhamdi.github.io/mlpy">MLPY</a></li>
             <li><a href="https://a-mhamdi.github.io/jlai">JLAI</a></li>
+            <li><a href="https://a-mhamdi.github.io/nlp">NLP</a></li>
         </ul>
     </nav>
 -->
@@ -32,3 +33,4 @@ I enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using `LaTeX`
 <a href="https://a-mhamdi.github.io/" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**HOME**</a>
 <a href="https://a-mhamdi.github.io/mlpy" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block; margin-right: 16px;">**MLPY**</a>
 <a href="https://a-mhamdi.github.io/jlai" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block;">**JLAI**</a>
+<a href="https://a-mhamdi.github.io/nlp" style="font-size: 25px; color: #ffffff; background-color: #bdc015e7; text-decoration: none; padding: 10px; border: 1px solid #ffffff; border-radius: 5px; display: inline-block;">**NLP**</a>
