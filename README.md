@@ -1,6 +1,6 @@
 ## Hi, I'm **Abdelbacet Mhamdi**
 
-I enjoy programming in `Julia`, `Python`, `Matlab`, `LabVIEW`, and using `LaTeX` or `Typst` for typesetting. The `Linux` distributions I regularly use are `Ubuntu`, `Fedora`, and `Manjaro`. It's a lot of fun for me to work with these tools and I feel like I learn something new every time I use them.
+I enjoy programming in `Julia`, `Python`, `JavaScript`, `Matlab`, `LabVIEW`, and using `LaTeX` or `Typst` for typesetting. The `Linux` distributions I regularly use are `Ubuntu`, `Fedora`, and `Manjaro`. It's a lot of fun for me to work with these tools and I feel like I learn something new every time I use them.
 
 #### TIME TRACKING
 <!--START_SECTION:waka-->
