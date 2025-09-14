@@ -6,7 +6,7 @@ I enjoy programming in `Julia`, `Python`, `JavaScript`, `Matlab`, `LabVIEW`, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
 sh (RPI || Jetson Nano)    9 hrs 4 mins    >>>>>>>>>>---------------   41.50 %
 YAML                       3 hrs 43 mins   >>>>---------------------   17.01 %
