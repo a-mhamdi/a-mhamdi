@@ -6,13 +6,11 @@ I enjoy programming in `Julia`, `Python`, `JavaScript`, `Matlab`, `LabVIEW`, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2026 - To: 15 January 2026
+From: 09 January 2026 - To: 16 January 2026
 
-TeX                       18 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.73 %
-sh (RPI || Jetson Nano)   2 hrs 27 mins   >>>----------------------   11.86 %
-PHP                       4 mins          -------------------------   00.35 %
-Vue.js                    0 secs          -------------------------   00.03 %
-JSON                      0 secs          -------------------------   00.03 %
+TeX                       20 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>----   84.03 %
+sh (RPI || Jetson Nano)   3 hrs 47 mins   >>>>---------------------   15.67 %
+PHP                       4 mins          -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
