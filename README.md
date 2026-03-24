@@ -1,6 +1,6 @@
 ## Hi, I'm **Abdelbacet Mhamdi**
 
-I enjoy programming in `Julia`, `Python`, `JavaScript`, `Matlab`, `LabVIEW`, and using `LaTeX` or `Typst` for typesetting. The `Linux` distributions I regularly use are `Ubuntu`, `Fedora`, and `Manjaro`. It's a lot of fun for me to work with these tools and I feel like I learn something new every time I use them.
+I work across Julia, Python, C++, JavaScript, MATLAB, and LabVIEW, and rely on LaTeX and Typst for all my typesetting needs. My daily driver is Fedora with bspwm, and vim keybindings have become non-negotiable. My work centers on AI, machine learning, and deep learning, with ROS2 as my primary framework for designing and experimenting with robotic systems.
 
 #### TIME TRACKING
 <!--START_SECTION:waka-->
