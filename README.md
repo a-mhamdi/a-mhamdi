@@ -6,13 +6,13 @@ I work across Julia, Python, C++, JavaScript, MATLAB, and LabVIEW, and rely on L
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Typst                     11 hrs 7 mins         >>>>>>>>>>---------------   40.01 %
-TeX                       8 hrs 12 mins         >>>>>>>------------------   29.52 %
-sh (RPI || Jetson Nano)   6 hrs 2 mins          >>>>>--------------------   21.73 %
-sh                        1 hr 38 mins          >------------------------   05.93 %
-C++                       46 mins               >------------------------   02.81 %
+Typst                     11 hrs 7 mins         >>>>>>>>>>>--------------   43.21 %
+sh (RPI || Jetson Nano)   6 hrs 18 mins         >>>>>>-------------------   24.53 %
+TeX                       5 hrs 52 mins         >>>>>>-------------------   22.83 %
+sh                        1 hr 38 mins          >>-----------------------   06.40 %
+C++                       46 mins               >------------------------   03.04 %
 ```
 
 <!--END_SECTION:waka-->
