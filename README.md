@@ -6,7 +6,7 @@ I work across Julia, Python, C++, JavaScript, MATLAB, and LabVIEW, and rely on L
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
 Julia                     1 hr 57 mins          >>>>>>>>>>>--------------   44.27 %
 sh (RPI || Jetson Nano)   1 hr 30 mins          >>>>>>>>>----------------   34.23 %
