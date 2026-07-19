@@ -23,6 +23,6 @@ C/C                       56 mins               >------------------------   03.8
 :-------------------------:|:-------------------------:
 <img width="455em" src="https://wakatime.com/share/@a_mhamdi/47bfed55-3bb2-44eb-84d5-b4e5f19b9396.svg"> | <img width="455em" src="https://wakatime.com/share/@a_mhamdi/0e45d800-32ba-4074-ac1e-9ee329554566.svg">
 
-[![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/320px-GitLab_logo.svg.png)](https://gitlab.com/a-mhamdi) | [![Bitbucket](https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitbucket-Logo-blue.svg)](https://bitbucket.org/aBmhamdi)
+[![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/960px-GitLab_logo.svg.png)](https://gitlab.com/a-mhamdi) | [![Bitbucket](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitbucket-Logo-blue.svg/960px-Bitbucket-Logo-blue.svg.png)](https://bitbucket.org/aBmhamdi)
 :-------------------------:|:-------------------------:
 
