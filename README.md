@@ -1,6 +1,6 @@
 ## Hi, I'm **Abdelbacet Mhamdi**
 
-I work across Julia, Python, C++, JavaScript, MATLAB, and LabVIEW, and rely on LaTeX and Typst for all my typesetting needs. My daily driver is Fedora Linux with bspwm as my window manager, and vim keybindings have become non-negotiable. My work centers on AI, machine learning, and deep learning, with ROS2 as my primary framework for designing and experimenting with robotic systems.
+Julia, Python, C++, and bash are my daily tools, with MATLAB, LabVIEW, and JavaScript rounding things out. LaTeX and Typst handle all my typesetting. I switch between Fedora with bspwm and Ubuntu with i3wm depending on the machine, and vim keybindings are non-negotiable at this point. My work centers on AI, machine learning, and embedded/edge systems, with ROS2 as my go-to framework for robotics.
 
 #### TIME TRACKING
 <!--START_SECTION:waka-->
