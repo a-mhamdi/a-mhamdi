@@ -6,13 +6,13 @@ Julia, Python, C++, and bash are my daily tools, with MATLAB, LabVIEW, and JavaS
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2026 - To: 14 August 2026
+From: 08 August 2026 - To: 15 August 2026
 
-C++                       4 hrs 22 mins         >>>>>>>>>>>--------------   43.60 %
-sh                        3 hrs 29 mins         >>>>>>>>>----------------   34.76 %
-C/C                       49 mins               >>-----------------------   08.14 %
-sh (RPI || Jetson Nano)   36 mins               >>-----------------------   06.01 %
-Typst                     21 mins               >------------------------   03.51 %
+sh                        3 hrs 17 mins         >>>>>>>>>>>>>>>>---------   63.36 %
+sh (RPI || Jetson Nano)   36 mins               >>>----------------------   11.63 %
+C++                       33 mins               >>>----------------------   10.62 %
+Typst                     19 mins               >>-----------------------   06.41 %
+CMakeLists.txt            11 mins               >------------------------   03.54 %
 ```
 
 <!--END_SECTION:waka-->
