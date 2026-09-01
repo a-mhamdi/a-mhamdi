@@ -6,10 +6,10 @@ Julia, Python, C++, and bash are my daily tools, with MATLAB, LabVIEW, and JavaS
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2026 - To: 29 August 2026
+From: 23 August 2026 - To: 30 August 2026
 
-sh         1 hr 31 mins          >>>>>>>>>>>>>>>>>>>>>>>>-   96.06 %
-Makefile   3 mins                >------------------------   03.94 %
+sh         1 hr 13 mins          >>>>>>>>>>>>>>>>>>>>>>>>-   95.12 %
+Makefile   3 mins                >------------------------   04.88 %
 ```
 
 <!--END_SECTION:waka-->
