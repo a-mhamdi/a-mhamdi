@@ -8,11 +8,11 @@ Julia, Python, C++, and bash are my daily tools, with MATLAB, LabVIEW, and JavaS
 ```txt
 From: 29 October 2026 - To: 05 November 2026
 
-sh                        3 hrs 59 mins         >>>>>>>>>>>>>>-----------   57.22 %
-sh (RPI || Jetson Nano)   1 hr 57 mins          >>>>>>>------------------   28.02 %
-TeX                       48 mins               >>>----------------------   11.68 %
-platformio                3 mins                -------------------------   00.83 %
-Python                    3 mins                -------------------------   00.78 %
+sh                        4 hrs 33 mins         >>>>>>>>>>>>>>>----------   60.17 %
+sh (RPI || Jetson Nano)   1 hr 59 mins          >>>>>>>------------------   26.23 %
+TeX                       48 mins               >>>----------------------   10.76 %
+platformio                3 mins                -------------------------   00.77 %
+Python                    3 mins                -------------------------   00.72 %
 ```
 
 <!--END_SECTION:waka-->
