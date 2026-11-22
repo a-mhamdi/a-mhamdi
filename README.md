@@ -6,13 +6,13 @@ Julia, Python, C++, and bash are my daily tools, with MATLAB, LabVIEW, and JavaS
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2026 - To: 19 November 2026
+From: 14 November 2026 - To: 21 November 2026
 
-Typst   4 hrs 30 mins         >>>>>>>>>>>--------------   42.78 %
-sh      2 hrs 47 mins         >>>>>>>------------------   26.52 %
-TeX     2 hrs 5 mins          >>>>>--------------------   19.78 %
-Other   1 hr 6 mins           >>>----------------------   10.44 %
-Just    2 mins                -------------------------   00.40 %
+sh       4 hrs 56 mins         >>>>>>>>>----------------   36.15 %
+Typst    4 hrs 30 mins         >>>>>>>>-----------------   32.96 %
+TeX      2 hrs 5 mins          >>>>---------------------   15.24 %
+Other    1 hr 6 mins           >>-----------------------   08.04 %
+Python   56 mins               >>-----------------------   06.84 %
 ```
 
 <!--END_SECTION:waka-->
